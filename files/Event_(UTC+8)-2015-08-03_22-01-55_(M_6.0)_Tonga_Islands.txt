@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/08/03, 22:10:16, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/08/03, 14:01:55,  UTC+8 : 2015/08/03, 22:01:55
+ Location: Tonga Islands
+ Latitude: -16.0,  Lontitude: -174.5,  Depth: 167 KM,  Magnitude: 6.0    
+ Epicentral Distance (to SBCB) :  74.94 (deg),   8332 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/08/03, 22:13:17   
+                                   S: 2015/08/03, 22:22:41   
+ ==========bats2015pcbl==========
+

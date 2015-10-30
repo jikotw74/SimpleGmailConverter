@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/09/03, 03:54:09, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/09/02, 19:46:52,  UTC+8 : 2015/09/03, 03:46:52
+ Location: East of Lake Baykal, Russia
+ Latitude: 57.2,  Lontitude: 115.2,  Depth: 10 KM,  Magnitude: 6.7    
+ Epicentral Distance (to SBCB) :  32.67 (deg),   3633 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/09/03, 03:53:24   
+                                   S: 2015/09/03, 03:58:41   
+ ==========bats2015rfhx==========
+

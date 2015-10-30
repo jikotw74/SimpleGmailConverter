@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/08/15, 15:55:20, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/08/15, 07:47:07,  UTC+8 : 2015/08/15, 15:47:07
+ Location: Solomon Islands
+ Latitude: -10.9,  Lontitude: 163.9,  Depth: 10 KM,  Magnitude: 6.3    
+ Epicentral Distance (to SBCB) :  55.00 (deg),   6116 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/08/15, 15:56:38   
+                                   S: 2015/08/15, 16:04:21   
+ ==========bats2015pxnc==========
+

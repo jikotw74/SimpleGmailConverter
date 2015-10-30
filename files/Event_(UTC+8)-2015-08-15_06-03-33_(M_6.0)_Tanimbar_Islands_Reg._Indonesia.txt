@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/08/15, 06:08:14, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/08/14, 22:03:33,  UTC+8 : 2015/08/15, 06:03:33
+ Location: Tanimbar Islands Reg., Indonesia
+ Latitude: -7.0,  Lontitude: 131.4,  Depth: 10 KM,  Magnitude: 6.0    
+ Epicentral Distance (to SBCB) :  33.37 (deg),   3711 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/08/15, 06:10:11   
+                                   S: 2015/08/15, 06:15:33   
+ ==========bats2015pwtw==========
+

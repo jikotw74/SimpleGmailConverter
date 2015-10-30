@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/08/01, 11:46:49, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/08/01, 03:38:49,  UTC+8 : 2015/08/01, 11:38:49
+ Location: Near East Coast of Australia
+ Latitude: -25.2,  Lontitude: 154.2,  Depth: 10 KM,  Magnitude: 6.0    
+ Epicentral Distance (to SBCB) :  59.42 (deg),   6608 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/08/01, 11:48:51   
+                                   S: 2015/08/01, 11:57:01   
+ ==========bats2015oxpw==========
+

@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/09/27, 01:27:47, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/09/26, 17:23:27,  UTC+8 : 2015/09/27, 01:23:27
+ Location: Mindanao, Philippines
+ Latitude: 5.2,  Lontitude: 123.9,  Depth: 530 KM,  Magnitude: 5.8    
+ Epicentral Distance (to SBCB) :  19.79 (deg),   2201 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/09/27, 01:27:22   
+                                   S: 2015/09/27, 01:30:33   
+ ==========bats2015swzg==========
+

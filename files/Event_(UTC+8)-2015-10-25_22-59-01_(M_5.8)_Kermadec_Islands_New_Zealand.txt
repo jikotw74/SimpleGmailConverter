@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/10/25, 23:08:52, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/10/25, 14:59:01,  UTC+8 : 2015/10/25, 22:59:01
+ Location: Kermadec Islands, New Zealand
+ Latitude: -29.1,  Lontitude: -177.9,  Depth: 10 KM,  Magnitude: 5.8    
+ Epicentral Distance (to SBCB) :  79.67 (deg),   8859 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/10/25, 23:11:08   
+                                   S: 2015/10/25, 23:21:11   
+ ==========bats2015uxub==========
+

@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/08/20, 19:05:08, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/08/20, 11:00:10,  UTC+8 : 2015/08/20, 19:00:10
+ Location: Northern Molucca Sea
+ Latitude: 0.4,  Lontitude: 126.7,  Depth: 10 KM,  Magnitude: 6.0    
+ Epicentral Distance (to SBCB) :  25.01 (deg),   2781 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/08/20, 19:05:34   
+                                   S: 2015/08/20, 19:09:59   
+ ==========bats2015qgwz==========
+

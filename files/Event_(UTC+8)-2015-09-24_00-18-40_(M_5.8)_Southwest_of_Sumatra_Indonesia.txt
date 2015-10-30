@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/09/24, 00:24:03, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/09/23, 16:18:40,  UTC+8 : 2015/09/24, 00:18:40
+ Location: Southwest of Sumatra, Indonesia
+ Latitude: -6.3,  Lontitude: 103.3,  Depth: 57 KM,  Magnitude: 5.8    
+ Epicentral Distance (to SBCB) :  35.54 (deg),   3952 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/09/24, 00:25:31   
+                                   S: 2015/09/24, 00:31:03   
+ ==========bats2015srkp==========
+

@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/10/19, 21:54:14, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/10/19, 13:50:45,  UTC+8 : 2015/10/19, 21:50:45
+ Location: Luzon, Philippines
+ Latitude: 14.1,  Lontitude: 120.1,  Depth: 10 KM,  Magnitude: 6.1    
+ Epicentral Distance (to SBCB) :  10.72 (deg),   1193 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/10/19, 21:53:18   
+                                   S: 2015/10/19, 21:55:19   
+ ==========bats2015umsu==========
+

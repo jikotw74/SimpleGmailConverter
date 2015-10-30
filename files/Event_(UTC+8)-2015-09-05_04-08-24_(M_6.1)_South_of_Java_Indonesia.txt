@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/09/05, 04:13:36, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/09/04, 20:08:24,  UTC+8 : 2015/09/05, 04:08:24
+ Location: South of Java, Indonesia
+ Latitude: -8.6,  Lontitude: 107.0,  Depth: 10 KM,  Magnitude: 6.1    
+ Epicentral Distance (to SBCB) :  36.07 (deg),   4011 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/09/05, 04:15:25   
+                                   S: 2015/09/05, 04:21:05   
+ ==========bats2015rizq==========
+

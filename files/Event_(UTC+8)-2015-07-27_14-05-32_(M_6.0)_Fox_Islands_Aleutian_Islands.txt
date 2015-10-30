@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/07/27, 14:13:38, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/07/27, 06:05:32,  UTC+8 : 2015/07/27, 14:05:32
+ Location: Fox Islands, Aleutian Islands
+ Latitude: 52.1,  Lontitude: -169.2,  Depth: 10 KM,  Magnitude: 6.0    
+ Epicentral Distance (to SBCB) :  58.45 (deg),   6499 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/07/27, 14:15:27   
+                                   S: 2015/07/27, 14:23:31   
+ ==========bats2015oorf==========
+

@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/07/25, 05:49:09, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/07/24, 21:44:40,  UTC+8 : 2015/07/25, 05:44:40
+ Location: Java, Indonesia
+ Latitude: -8.5,  Lontitude: 109.0,  Depth: 122 KM,  Magnitude: 6.3    
+ Epicentral Distance (to SBCB) :  35.28 (deg),   3923 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/07/25, 05:51:22   
+                                   S: 2015/07/25, 05:56:48   
+ ==========bats2015okjr==========
+

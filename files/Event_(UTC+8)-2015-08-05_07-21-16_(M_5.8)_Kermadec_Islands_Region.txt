@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/08/05, 07:31:55, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/08/04, 23:21:16,  UTC+8 : 2015/08/05, 07:21:16
+ Location: Kermadec Islands Region
+ Latitude: -27.3,  Lontitude: -176.6,  Depth: 10 KM,  Magnitude: 5.8    
+ Epicentral Distance (to SBCB) :  79.56 (deg),   8846 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/08/05, 07:33:23   
+                                   S: 2015/08/05, 07:43:25   
+ ==========bats2015pepj==========
+

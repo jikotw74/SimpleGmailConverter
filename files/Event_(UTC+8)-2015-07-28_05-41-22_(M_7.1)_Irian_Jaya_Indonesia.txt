@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/07/28, 05:46:07, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/07/27, 21:41:22,  UTC+8 : 2015/07/28, 05:41:22
+ Location: Irian Jaya, Indonesia
+ Latitude: -3.0,  Lontitude: 138.5,  Depth: 10 KM,  Magnitude: 7.1    
+ Epicentral Distance (to SBCB) :  32.58 (deg),   3623 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/07/28, 05:47:53   
+                                   S: 2015/07/28, 05:53:09   
+ ==========bats2015opwb==========
+

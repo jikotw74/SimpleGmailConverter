@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/10/14, 13:48:54, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/10/14, 05:43:12,  UTC+8 : 2015/10/14, 13:43:12
+ Location: Kuril Islands
+ Latitude: 49.1,  Lontitude: 155.8,  Depth: 10 KM,  Magnitude: 6.3    
+ Epicentral Distance (to SBCB) :  36.39 (deg),   4047 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/10/14, 13:50:16   
+                                   S: 2015/10/14, 13:55:58   
+ ==========bats2015uczf==========
+

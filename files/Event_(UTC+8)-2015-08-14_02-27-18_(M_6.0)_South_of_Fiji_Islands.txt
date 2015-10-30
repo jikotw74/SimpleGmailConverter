@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/08/14, 02:41:16, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/08/13, 18:27:18,  UTC+8 : 2015/08/14, 02:27:18
+ Location: South of Fiji Islands
+ Latitude: -24.4,  Lontitude: -176.0,  Depth: 32 KM,  Magnitude: 6.0    
+ Epicentral Distance (to SBCB) :  78.35 (deg),   8712 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/08/14, 02:39:15   
+                                   S: 2015/08/14, 02:49:08   
+ ==========bats2015purf==========
+

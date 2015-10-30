@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/09/16, 22:09:41, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/09/16, 14:03:20,  UTC+8 : 2015/09/16, 22:03:20
+ Location: New Britain Region, P.N.G.
+ Latitude: -6.2,  Lontitude: 152.3,  Depth: 10 KM,  Magnitude: 6.3    
+ Epicentral Distance (to SBCB) :  43.47 (deg),   4833 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/09/16, 22:11:23   
+                                   S: 2015/09/16, 22:17:52   
+ ==========bats2015selp==========
+

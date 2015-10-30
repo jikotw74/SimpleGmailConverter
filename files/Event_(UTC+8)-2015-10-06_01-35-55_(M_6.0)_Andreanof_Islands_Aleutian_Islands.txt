@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/10/06, 01:44:07, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/10/05, 17:35:55,  UTC+8 : 2015/10/06, 01:35:55
+ Location: Andreanof Islands, Aleutian Islands
+ Latitude: 51.9,  Lontitude: -179.3,  Depth: 84 KM,  Magnitude: 6.0    
+ Epicentral Distance (to SBCB) :  52.23 (deg),   5808 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/10/06, 01:44:57   
+                                   S: 2015/10/06, 01:52:16   
+ ==========bats2015tnle==========
+

@@ -1,0 +1,10 @@
+ Earthquake Report ( 2015/09/10, 05:16:10, UTC+8)   
+ ===============================
+ Origin Time (UTC): 2015/09/09, 21:06:17,  UTC+8 : 2015/09/10, 05:06:17
+ Location: Kyushu, Japan
+ Latitude: 33.3,  Lontitude: 131.2,  Depth: 10 KM,  Magnitude: 5.8    
+ Epicentral Distance (to SBCB) :  12.32 (deg),   1370 KM    
+ Estimate Arrival Time (to SBCB, UTC+8)  P: 2015/09/10, 05:09:12   
+                                   S: 2015/09/10, 05:11:30   
+ ==========bats2015rsfb==========
+
