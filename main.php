@@ -95,9 +95,9 @@ function listMessages($service, $userId) {
     }
   } while ($pageToken);
 
-  foreach ($messages as $message) {
+  //foreach ($messages as $message) {
     //print 'Message with ID: ' . $message->getId() . '<br/>';
-  }
+  //}
 
   return $messages;
 }
