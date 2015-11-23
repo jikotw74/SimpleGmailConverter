@@ -1,6 +1,6 @@
 <?php
+require 'config.php';
 require 'vendor/autoload.php';
-//require __DIR__ . '/vendor/autoload.php';
 
 define('APPLICATION_NAME', 'Gmail API PHP Quickstart');
 define('CREDENTIALS_PATH', '~/.credentials/gmail-php-quickstart.json');
@@ -76,7 +76,7 @@ function listMessages($service, $userId) {
   $pageToken = NULL;
   $messages = array();
   $opt_param = array();
-  $q = "in:inbox from:(sysop@earth.sinica.edu.tw)";
+  $q = PARAM_QUERY;
   do {
     try {
       if ($pageToken) {
@@ -121,11 +121,26 @@ function getMessage($service, $userId, $messageId) {
   }
 }
 
+function createSavedFile(){
+	file_put_contents(SAVED_FILE, json_encode([]));
+}
+
 // Get the API client and construct the service object.
 $client = getClient();
 $service = new Google_Service_Gmail($client);
 $user = 'me';
 $results = listMessages($service, $user);
+$saved = [];
+if(!file_exists(SAVED_FILE)){
+	createSavedFile();
+}else{
+	$saved_contents = json_decode(file_get_contents(SAVED_FILE));
+	if(empty($saved_contents)){
+		createSavedFile();
+	}else{
+		$saved = $saved_contents;
+	}
+}
 
 foreach($results as $obj){
 	$msg = getMessage($service, $user, $obj->getId());
@@ -144,15 +159,19 @@ foreach($results as $obj){
 	}
 	
 	if($subject){
-		$file = 'files/' . trim(str_replace([', ', ' ', "/", ":"], ['_', '_', '-', '-'], $subject)) . '.txt';
+		$name = trim(str_replace([', ', ' ', "/", ":"], ['_', '_', '-', '-'], $subject));
+		$file = FILES_PATH . $name . '.txt';
 		
-		if(!file_exists($file)){
+		if(!file_exists($file) && !in_array($name, $saved)){
 			$body = $payLoad->getBody();
 			$rawData = $body->getData();
 			$sanitizedData = strtr($rawData,'-_', '+/');
 			$decodedMessage = base64_decode($sanitizedData);
 			file_put_contents($file, $decodedMessage);
+			$saved []= $name;
 		}
 	}
 }
+
+file_put_contents(SAVED_FILE, json_encode($saved));
 ?>
