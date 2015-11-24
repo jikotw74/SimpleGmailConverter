@@ -159,8 +159,8 @@ foreach($results as $obj){
 	}
 	
 	if($subject){
-    $from_a = [', ', ' ', "/", ":"];
-    $to_a = ['_', '_', '-', '-'];
+    $from_a = array(', ', ' ', '/', ':');
+    $to_a = array('_', '_', '-', '-');
 		$name = trim(str_replace($from_a, $to_a, $subject));
 		$file = FILES_PATH . $name . '.txt';
 		
