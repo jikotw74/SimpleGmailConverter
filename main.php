@@ -121,8 +121,8 @@ function getMessage($service, $userId, $messageId) {
   }
 }
 
-function createSavedFile(){
-	file_put_contents(SAVED_FILE, json_encode([]));
+function createSavedFile($data = array()){
+	file_put_contents(SAVED_FILE, json_encode($data));
 }
 
 // Get the API client and construct the service object.
@@ -130,7 +130,7 @@ $client = getClient();
 $service = new Google_Service_Gmail($client);
 $user = 'me';
 $results = listMessages($service, $user);
-$saved = [];
+$saved = array();
 if(!file_exists(SAVED_FILE)){
 	createSavedFile();
 }else{
