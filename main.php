@@ -159,7 +159,9 @@ foreach($results as $obj){
 	}
 	
 	if($subject){
-		$name = trim(str_replace([', ', ' ', "/", ":"], ['_', '_', '-', '-'], $subject));
+    $from_a = [', ', ' ', "/", ":"];
+    $to_a = ['_', '_', '-', '-'];
+		$name = trim(str_replace($from_a, $to_a, $subject));
 		$file = FILES_PATH . $name . '.txt';
 		
 		if(!file_exists($file) && !in_array($name, $saved)){
