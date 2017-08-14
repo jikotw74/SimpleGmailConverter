@@ -1,3 +1,4 @@
 # SimpleGmailConverter
 Gmail API, PHP, convert to *.txt file
-測試
+
+re-auth: delete "~/.credentials/gmail-php-quickstart.json"
